@@ -8,11 +8,6 @@
 CryptoPriceX is a script that allows you to retrieve the price of a crypto currency on the Binance exchange.
 It is written in Python and uses the Binance API.
 
-## Authors
-
-- @Jpiix - Version 1.X
-- [@Valmar](https://www.github.com/CalValmar) - Version 2.X
-
 ## Run Locally
 
 **Install dependencies**
@@ -55,6 +50,11 @@ It is written in Python and uses the Binance API.
 - [API Documentation](https://binance-docs.github.io/apidocs/spot/en/#24hr-ticker-price-change-statistics)
 - [List of Supported Assets](https://support.binance.us/hc/en-us/articles/360049417674-List-of-Supported-Assets)
 - [Exemple](https://api.binance.com/api/v3/ticker/price?symbol=FLUXBUSD)
+
+## Authors
+
+- @Jpiix - Version 1.X
+- [@Valmar](https://www.github.com/CalValmar) - Version 2.X
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
